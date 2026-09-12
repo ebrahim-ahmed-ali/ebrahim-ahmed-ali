@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ebrahim Ahmed Ali
 
-<!--
-**ebrahim-ahmed-ali/ebrahim-ahmed-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Excel | Power BI | SQL | Python
 
-Here are some ideas to get you started:
+I work with data to clean, analyze, and visualize it, building dashboards and reports that provide actionable insights and support data-driven decision-making.
+## Skills & Tools
+- Excel
+- Power Query
+- Power BI
+- SQL
+- Python
+- Data Cleaning & Transformation
+- Data Analysis
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 1. Sales vs Budget Analysis — Power BI
+Power BI dashboard for analyzing sales performance against budget, including achievement rate, variance, monthly trends, and product analysis.
+
+### 2. Superstore Sales & Profit Analysis — Excel
+Sales and profit analysis using Excel, Power Query, Power Pivot, PivotTables, PivotCharts, and interactive slicers.
+
+### 3. Airport & Passengers Analysis — Power BI
+Power BI dashboard analyzing airport passenger data across countries and years, with geographic and time-based visualizations.
